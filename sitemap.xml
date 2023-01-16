@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jarvisip.github.io/posts/1101565665.html</loc>
+    
+    <lastmod>2023-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jarvisip.github.io/posts/1365134013.html</loc>
     
     <lastmod>2022-12-04</lastmod>
@@ -40,7 +49,7 @@
 
   <url>
     <loc>https://jarvisip.github.io/</loc>
-    <lastmod>2022-12-04</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,7 +57,7 @@
   
   <url>
     <loc>https://jarvisip.github.io/tags/%E5%9F%8E%E5%B8%82%E6%BC%AB%E6%B8%B8/</loc>
-    <lastmod>2022-12-04</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -57,7 +66,7 @@
   
   <url>
     <loc>https://jarvisip.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2022-12-04</lastmod>
+    <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
